@@ -1,13 +1,13 @@
-**#Shuffle GIF maker#**
+** # Shuffle GIF maker # **
 
 ##Description##
 This is a bash script to take a text string and output a GIF of that text shuffling around. Runs in the terminal.
 
 It still has some trouble with certain special characters.
 
-**##License##**
+** ## License ## **
 
-**WTFPLv2**
+** WTFPLv2 **
 
  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
